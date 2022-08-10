@@ -8,7 +8,5 @@ The primary objective of this project is to create an interactive dashboard in t
       <br> a). https://www.wikipedia.org
       <br> b). https://presidentofindia.nic.in
       <br> c). https://www.india.gov.in
-      
-    <br>The collected information includes the date of birth, date of death, election date, the date on which they started their service, date on which they died retired,       birth place, qualification, profession, religion, party, awards, and other important details.<br>
-
+      <br>The collected information includes the date of birth, date of death, election date, the date on which they started their service, date on which they died retired,birth place, qualification, profession, religion, party, awards, and other important details.<br>
 2. Data Preparation : 
