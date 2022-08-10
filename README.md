@@ -5,8 +5,8 @@ The primary objective of this project is to create an interactive dashboard in t
 
 ### Steps of this project :<br>
  1. Data collection from different internet resources. <br> The following are the sources that I mainly used for the data collection;
-      <br> a). https://www.wikipedia.org
-      <br> b). https://presidentofindia.nic.in
-      <br> c). https://www.india.gov.in
+      <br> a). https://www.wikipedia.org <br>
+      <br> b). https://presidentofindia.nic.in <br>
+      <br> c). https://www.india.gov.in <br>
       <br>The collected information includes the date of birth, date of death, election date, the date on which they started their service, date on which they died retired,birth place, qualification, profession, religion, party, awards, and other important details.<br>
 2. Data Preparation : 
