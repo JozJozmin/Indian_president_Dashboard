@@ -4,7 +4,7 @@
 The primary objective of this project is to create an interactive dashboard in tableau of all the Indian presidents by collecting maximum data from different internet resources. <br>
 
 ### Steps of this project :<br>
- 1. Data collection from different internet resources. The following are the sources that I mainly used for the data collection;
+ 1. Data collection from different internet resources. <br>. The following are the sources that I mainly used for the data collection;
        a). https://www.wikipedia.org
        b). https://presidentofindia.nic.in
        c). https://www.india.gov.in
