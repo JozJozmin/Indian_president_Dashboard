@@ -9,4 +9,11 @@ The primary objective of this project is to create an interactive dashboard in t
       <br> b). https://presidentofindia.nic.in 
       <br> c). https://www.india.gov.in 
       <br>The collected information includes the date of birth, date of death, election date, the date on which they started their service, date on which they died retired,birth place, qualification, profession, religion, party, awards, and other important details.<br>
-2. Data Preparation : 
+2. Data Preparation & EDA : 
+<br> Each president's age during diffrent serevice time periods such as service start age, retairment age, total number of service days etc are derviced from the data. And also prepared EDA.<br>
+3. Tableau Dashboard:
+The link to the tableau dashboard is given below: 
+![Indian president dashbord final](https://user-images.githubusercontent.com/87713648/187443698-f06c741f-24e5-48b1-9848-bac248381102.png)
+
+The link to the tableau dashboard is given below: 
+https://public.tableau.com/app/profile/josmin/viz/PresidentofIndiafrom1950-2022/Indianpresidentdashbordfinal
