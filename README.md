@@ -13,7 +13,8 @@ The primary objective of this project is to create an interactive dashboard in t
 <br> Each president's age during diffrent serevice time periods such as service start age, retairment age, total number of service days etc are derviced from the data. And also prepared EDA.<br>
 3. Tableau Dashboard:
 The link to the tableau dashboard is given below: 
-![Indian president dashbord final](https://user-images.githubusercontent.com/87713648/187443698-f06c741f-24e5-48b1-9848-bac248381102.png)
+
+![Indian president dashbord final](https://user-images.githubusercontent.com/87713648/187464188-727b9a03-a08f-4ee7-a622-58009881655a.png)
 
 The link to the tableau dashboard is given below: 
 https://public.tableau.com/app/profile/josmin/viz/PresidentofIndiafrom1950-2022/Indianpresidentdashbordfinal
